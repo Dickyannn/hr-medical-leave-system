@@ -237,9 +237,3 @@ Restart streamlit: streamlit run app.py
 
 ---
 
-## 📝 License
-Internal - Japfa HR System
-
-## 👤 Author
-Created with ❤️ for HR Automation
-
